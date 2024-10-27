@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Ella!
+An aspiring programmer with an interest in becoming a Front End Developer 🚀
+
+### 🌱 Currently Learning:
+- HTML
+- CSS
+- JavaScript
+
+### 📫 You can kindly contact me through:
+- [LinkedIn] https://www.linkedin.com/in/ellaaurelia
+
+Thank you for visiting my GitHub profile 😄
 
 <!--
 **ellaaurelia/ellaaurelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
